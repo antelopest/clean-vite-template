@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/antelopest/clean-vite-template/issues"
   },
-  "homepage": "https://github.com/antelopest/clean-vite-template#readme"
+  "homepage": "https://github.com/antelopest/clean-vite-template#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "vite": "^7.1.5"
+  }
 }
